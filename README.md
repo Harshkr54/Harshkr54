@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- CUSTOM ANIMATED BANNER: Upload assets/harshraj-animated-banner.svg to the main branch first -->
-<img src="https://raw.githubusercontent.com/Harshkr54/Harshkr54/main/assets/harshraj-animated-banner.svg" width="100%" alt="Animated banner — Harsh Raj, Java Backend Developer" />
+<!-- Modern animated banner: SVG is in the repository root -->
+<img src="https://raw.githubusercontent.com/Harshkr54/Harshkr54/main/harshraj-animated-banner.svg" width="100%" alt="Harsh Raj — Java Backend Developer" />
+
+<br/>
 
 <a href="https://github.com/Harshkr54">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;Designing+microservices+and+REST+APIs;Learning%2C+building%2C+and+shipping+every+day" alt="Animated introduction" />
@@ -22,7 +24,9 @@
 
 ## 👋 About Me
 
-<img src="https://github.com/Harshkr54.png" width="130" alt="Harsh Raj GitHub avatar" />
+<div align="center">
+  <img src="https://github.com/Harshkr54.png" width="130" alt="Harsh Raj GitHub avatar" />
+</div>
 
 ### Harsh Raj
 
@@ -30,12 +34,12 @@
 
 I build backend applications, REST APIs, and service-based systems with a focus on clean architecture and practical problem-solving.
 
-- 🔭 Working on backend and full-stack projects
+- 🔭 Building backend and full-stack projects
 - 🌱 Exploring system design, Redis, Kafka, and cloud deployment
 - 🧠 Interested in AI/ML and intelligent applications
 - 💬 Main stack: Java, Spring Boot, SQL, REST APIs
 
-<a href="https://github.com/Harshkr54"><img src="https://img.shields.io/badge/GitHub-Harshkr54-24292F?style=flat&logo=github" alt="GitHub" /></a>
+<a href="https://github.com/Harshkr54"><img src="https://img.shields.io/badge/GitHub-Harshkr54-24292F?style=flat&logo=github" alt="GitHub profile" /></a>
 
 </td>
 <td width="68%" valign="top">
@@ -89,7 +93,7 @@ A business management platform covering CRM and sales workflows, quotations, pur
 
 `Java` `Spring Boot` `React` `PostgreSQL`
 
-<a href="https://github.com/Harshkr54/Acrovix-Admin"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View ACROVIX ERP repository" /></a>
+<a href="https://github.com/Harshkr54/Acrovix-Admin"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ACROVIX ERP repository" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +106,7 @@ A cloud file storage and sharing application with authentication, folder managem
 
 `Java` `Spring Boot` `React` `AWS S3` `PostgreSQL`
 
-<a href="https://github.com/Harshkr54/strovix-cloud-storage"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Storvix repository" /></a>
+<a href="https://github.com/Harshkr54/strovix-cloud-storage"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Storvix repository" /></a>
 
 </td>
 </tr>
@@ -117,7 +121,7 @@ A responsive corporate website for IT services, built with a modern component-ba
 
 `React` `Vite` `Tailwind CSS` `JavaScript`
 
-<a href="https://github.com/Harshkr54/Acrovix-Website"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View ACROVIX Website repository" /></a>
+<a href="https://github.com/Harshkr54/Acrovix-Website"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ACROVIX Website repository" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -130,14 +134,14 @@ A service-oriented application exploring modular backend design and communicatio
 
 `Java` `Spring Boot` `Microservices`
 
-<a href="https://github.com/Harshkr54/gym-management-microservices"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Gym Management Microservices repository" /></a>
+<a href="https://github.com/Harshkr54/gym-management-microservices"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Gym Management Microservices repository" /></a>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Harshkr54?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-Explore%20Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
+  <a href="https://github.com/Harshkr54?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-Explore%20Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 </p>
 
 ---
@@ -162,7 +166,7 @@ A service-oriented application exploring modular backend design and communicatio
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-0F766E?style=flat-square)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
@@ -239,7 +243,9 @@ A service-oriented application exploring modular backend design and communicatio
 
 ### 💬 A Developer's Mindset
 
-*“Code is not just what I write; it’s how I solve problems.”*
+*“Code is not just what I write; it's how I solve problems.”*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DBEAFE,100:EFF6FF&height=65&section=footer" width="100%" alt="Minimal blue footer" />
 
 **Thanks for visiting my profile!** 👋
 
