@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Harsh Raj — Java Backend Developer</title>
+  <desc id="desc">A clean, modern animated blue and white developer banner with a moving progress line and a terminal-style code card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="55%" stop-color="#edf5ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="300" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle cx="1050" cy="40" r="160" fill="#bfdbfe" opacity=".28">
+      <animate attributeName="r" values="150;172;150" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".22;.38;.22" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1140" cy="280" r="180" fill="#99f6e4" opacity=".22">
+      <animate attributeName="cx" values="1140;1090;1140" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <g opacity=".42" stroke="#93c5fd" stroke-width="1">
+      <path d="M720 0V300 M780 0V300 M840 0V300 M900 0V300 M960 0V300 M1020 0V300 M1080 0V300 M1140 0V300"/>
+      <path d="M700 50H1200 M700 100H1200 M700 150H1200 M700 200H1200 M700 250H1200"/>
+    </g>
+    <rect x="36" y="34" width="7" height="230" rx="3.5" fill="url(#blue)"/>
+    <text x="70" y="67" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#2563eb" letter-spacing="2">HELLO, WORLD 👋</text>
+    <text x="68" y="123" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="43" font-weight="750" fill="#0f172a">Harsh Raj</text>
+    <text x="70" y="160" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="650" fill="#1d4ed8">Java Backend Developer</text>
+    <text x="70" y="193" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#334155">Spring Boot · Microservices · REST APIs · Cloud</text>
+    <g transform="translate(70 224)">
+      <rect width="350" height="34" rx="17" fill="#ffffff" stroke="#bfdbfe"/>
+      <circle cx="18" cy="17" r="5" fill="#0f766e">
+        <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="34" y="22" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#334155">building reliable software</text>
+      <rect x="269" y="10" width="2" height="14" fill="#2563eb">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g transform="translate(735 48)">
+      <rect width="405" height="202" rx="16" fill="#ffffff" fill-opacity=".84" stroke="#bfdbfe" stroke-width="1.5"/>
+      <rect width="405" height="38" rx="16" fill="#eff6ff"/>
+      <rect y="22" width="405" height="16" fill="#eff6ff"/>
+      <circle cx="20" cy="19" r="5" fill="#f87171"/>
+      <circle cx="38" cy="19" r="5" fill="#fbbf24"/>
+      <circle cx="56" cy="19" r="5" fill="#34d399"/>
+      <text x="78" y="24" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" fill="#64748b">developer.java</text>
+      <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">
+        <text x="24" y="72" fill="#64748b">01</text><text x="56" y="72" fill="#7c3aed">class</text><text x="103" y="72" fill="#0f172a"> Developer</text><text x="196" y="72" fill="#2563eb">{</text>
+        <text x="24" y="102" fill="#64748b">02</text><text x="56" y="102" fill="#0f766e">  build</text><text x="115" y="102" fill="#0f172a">("scalable APIs");</text>
+        <text x="24" y="132" fill="#64748b">03</text><text x="56" y="132" fill="#0f766e">  learn</text><text x="112" y="132" fill="#0f172a">("every day");</text>
+        <text x="24" y="162" fill="#64748b">04</text><text x="56" y="162" fill="#2563eb">}</text>
+      </g>
+      <rect x="24" y="180" width="357" height="4" rx="2" fill="#dbeafe"/>
+      <rect x="24" y="180" width="110" height="4" rx="2" fill="url(#blue)">
+        <animate attributeName="width" values="45;300;110" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <path d="M0 289H1200" stroke="#bfdbfe" stroke-width="2"/>
+    <path d="M0 289H1200" stroke="url(#blue)" stroke-width="3" stroke-dasharray="180 1020">
+      <animate attributeName="stroke-dashoffset" values="1200;0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
